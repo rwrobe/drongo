@@ -20,21 +20,43 @@
         <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <caret line="38" column="9" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flights.service.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flights.service.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services/flights.service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="555">
+              <caret line="81" column="7" lean-forward="false" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
               <folding>
-                <element signature="e#1588#1668#0" expanded="true" />
-                <element signature="e#1744#1764#0" expanded="true" />
-                <element signature="e#1781#1833#0" expanded="true" />
+                <element signature="e#176#205#0" expanded="true" />
+                <element signature="e#223#266#0" expanded="true" />
+                <element signature="e#283#322#0" expanded="true" />
+                <element signature="e#339#359#0" expanded="true" />
+                <element signature="e#375#439#0" expanded="true" />
+                <element signature="e#697#1409#0" expanded="true" />
+                <element signature="e#907#933#0" expanded="false" />
+                <element signature="e#1466#1486#0" expanded="true" />
+                <element signature="e#2788#2988#0" expanded="true" />
+                <element signature="e#2933#2981#0" expanded="true" />
+                <element signature="e#2996#3048#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_map.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_map.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="66" column="61" lean-forward="true" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+              <folding>
+                <element signature="e#303#1720#0" expanded="true" />
+                <element signature="e#341#1714#0" expanded="true" />
+                <element signature="e#479#1702#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,9 +67,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1510110410000" expanded="true" signature="404:568" ph="{&quot;moleculer&quot;: &quot;^0.11.0&quot;...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +97,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>greeter</find>
+      <find>Request</find>
     </findStrings>
+    <replaceStrings>
+      <replace>request</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>C:\Users\rob\Dev\drongo</dir>
     </dirStrings>
@@ -90,6 +114,7 @@
       <list>
         <option value="$PROJECT_DIR$/services/api.service.js" />
         <option value="$PROJECT_DIR$/services/flights.service.js" />
+        <option value="$PROJECT_DIR$/test_map" />
       </list>
     </option>
   </component>
@@ -108,10 +133,9 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="6" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="2654" />
+    <option name="width" value="1207" />
     <option name="height" value="1371" />
   </component>
   <component name="ProjectView">
@@ -130,6 +154,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +171,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,18 +215,31 @@
       <updated>1510012210025</updated>
       <workItem from="1510012211338" duration="4579000" />
       <workItem from="1510103417647" duration="104000" />
-      <workItem from="1510103841952" duration="3376000" />
+      <workItem from="1510103841952" duration="3499000" />
+      <workItem from="1510143253353" duration="165000" />
+      <workItem from="1510159656616" duration="151000" />
+      <workItem from="1510162476960" duration="39000" />
+      <workItem from="1510163869799" duration="140000" />
+      <workItem from="1510233930446" duration="161000" />
+      <workItem from="1510235042646" duration="57000" />
+      <workItem from="1510249087626" duration="43000" />
+      <workItem from="1510259672168" duration="4730000" />
+      <workItem from="1510321289659" duration="598000" />
+      <workItem from="1510328550796" duration="10000" />
+      <workItem from="1510331122601" duration="267000" />
+      <workItem from="1510591968173" duration="105000" />
+      <workItem from="1510592295476" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8059000" />
+    <option name="totallyTimeSpent" value="14773000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="2560" height="1371" extended-state="6" />
+    <frame x="0" y="22" width="1207" height="1371" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31484374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23695111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -229,10 +266,36 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -246,9 +309,17 @@
         <state relative-caret-position="180">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="e#1588#1668#0" expanded="true" />
-            <element signature="e#1744#1764#0" expanded="true" />
-            <element signature="e#1781#1833#0" expanded="true" />
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -257,9 +328,339 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
-            <marker date="1510110410000" expanded="true" signature="404:568" ph="{&quot;moleculer&quot;: &quot;^0.11.0&quot;...}" />
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="52" column="45" lean-forward="true" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+          <folding>
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/api.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculer.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services/flights.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -291,9 +692,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510110410000" expanded="true" signature="404:568" ph="{&quot;moleculer&quot;: &quot;^0.11.0&quot;...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -318,9 +717,17 @@
         <state relative-caret-position="450">
           <caret line="51" column="35" lean-forward="true" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
           <folding>
-            <element signature="e#1588#1668#0" expanded="true" />
-            <element signature="e#1744#1764#0" expanded="true" />
-            <element signature="e#1781#1833#0" expanded="true" />
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -333,16 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1510110410000" expanded="true" signature="404:568" ph="{&quot;moleculer&quot;: &quot;^0.11.0&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/api.service.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -351,22 +748,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/services/greeter.service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="9" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_map" />
     <entry file="file://$PROJECT_DIR$/services/flights.service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="555">
+          <caret line="81" column="7" lean-forward="false" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
           <folding>
-            <element signature="e#1588#1668#0" expanded="true" />
-            <element signature="e#1744#1764#0" expanded="true" />
-            <element signature="e#1781#1833#0" expanded="true" />
+            <element signature="e#176#205#0" expanded="true" />
+            <element signature="e#223#266#0" expanded="true" />
+            <element signature="e#283#322#0" expanded="true" />
+            <element signature="e#339#359#0" expanded="true" />
+            <element signature="e#375#439#0" expanded="true" />
+            <element signature="e#697#1409#0" expanded="true" />
+            <element signature="e#907#933#0" expanded="false" />
+            <element signature="e#1466#1486#0" expanded="true" />
+            <element signature="e#2788#2988#0" expanded="true" />
+            <element signature="e#2933#2981#0" expanded="true" />
+            <element signature="e#2996#3048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="66" column="61" lean-forward="true" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
+          <folding>
+            <element signature="e#303#1720#0" expanded="true" />
+            <element signature="e#341#1714#0" expanded="true" />
+            <element signature="e#479#1702#0" expanded="true" />
           </folding>
         </state>
       </provider>
